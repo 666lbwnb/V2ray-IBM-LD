@@ -4,8 +4,6 @@
 
 2：脚本默认情况下：仅支持IBM伦敦仅支持IBM伦敦仅支持IBM伦敦 ，每天自动更新V2ray并重启
 
-详细教程视频（YouTube）：https://youtu.be/2WGJbtsY6gw
-
    | Secrets变量 | 形式 |
   | --------------------- | ----------- |
   | `IBM_CF_USERNAME`       | IBM Cloud 邮箱地址 |
@@ -15,5 +13,3 @@
   | `V2_WS_PATH_VMESS` </br> `V2_WS_PATH_VLESS` | 协议选择一个，填入自定义PATH路径 |
   
 注：VMESS默认的alterId为64
-
-本项目基于P3TERX项目修改而来，感谢P3TERX
